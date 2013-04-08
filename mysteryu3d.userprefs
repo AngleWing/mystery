@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Characters\NPCController.js">
+    <Files>
+      <File FileName="Assets\Scripts\Characters\EnemyStatus.js" Line="21" Column="28" />
+      <File FileName="Assets\Scripts\Characters\ManStatus.js" Line="69" Column="1" />
+      <File FileName="Assets\Scripts\SceneControll.js" Line="81" Column="5" />
+      <File FileName="Assets\GUI\status.js" Line="17" Column="42" />
+      <File FileName="Assets\GUI\object.js" Line="22" Column="57" />
+      <File FileName="Assets\Scripts\TalkControll.js" Line="18" Column="4" />
+      <File FileName="Assets\Scripts\Characters\HeroAnimation.js" Line="77" Column="22" />
+      <File FileName="Assets\GUI\quit.js" Line="18" Column="2" />
+      <File FileName="Assets\Scripts\Characters\ManAttack.js" Line="43" Column="29" />
+      <File FileName="Assets\Scripts\Characters\ManInventory.js" Line="24" Column="1" />
+      <File FileName="Assets\Scripts\Characters\MasterAnimation.js" Line="73" Column="39" />
+      <File FileName="Assets\Scripts\Characters\MasterAIController.js" Line="180" Column="24" />
+      <File FileName="Assets\Standard Assets\Scripts\ReadXml.cs" Line="131" Column="3" />
+      <File FileName="Assets\Scripts\Characters\NPCController.js" Line="31" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="F:\My favorite\Documents\My Games\Mystery\mysteryu3d\Assets\Scripts\SceneControll.js" line="72" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

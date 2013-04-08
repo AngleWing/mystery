@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LevelStatus xmlns="http://www.xml.com" 
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"          
+         xsi:schemaLocation="levelStatus.xsd">
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Level levelNum="1" health="2" energy="2" damage="2" defence="2"/>
+	<Level levelNum="2" health="2" energy="2" damage="2" defence="2"/>
+	<Level levelNum="3" health="2" energy="2" damage="2" defence="2"/>
+	<Level levelNum="4" health="2" energy="2" damage="2" defence="2"/>
+	<Level levelNum="5" health="2" energy="2" damage="2" defence="2"/>
+</LevelStatus>
